@@ -1,16 +1,38 @@
-## Hi there 👋
+# Steve Lewis  
+Cloud Engineer | AWS | Terraform | Real-World Projects
 
-<!--
-**sjlewis25/sjlewis25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build hands-on AWS infrastructure that solves actual business problems.
 
-Here are some ideas to get you started:
+## Core Tools & Skills
+- AWS (S3, Lambda, DynamoDB, Glue, Athena, etc.)
+- Terraform (Infrastructure as Code)
+- CI/CD with GitHub Actions
+- PowerShell & Bash scripting
+- SQL & Data pipelines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Highlight Projects
+
+Pizza Delivery Data Pipeline  
+Uses S3, Glue, and Athena to analyze real-world delivery data. Built with Terraform. Cost-optimized. Fully automated.  
+Repo: https://github.com/sjlewis25/pizza-delivery-pipeline
+
+Three-Tier AWS Architecture  
+Classic VPC + EC2 + ALB setup using Terraform. Includes diagram, deployment guide, and cleanup script.  
+Repo: https://github.com/sjlewis25/three-tier-aws-architecture
+
+Docker CI/CD Pipeline  
+CI/CD with GitHub Actions and ECS. Auto-builds and deploys containerized apps.  
+Repo: https://github.com/sjlewis25/aws-docker-cicd
+
+---
+
+## Currently Working On
+- Security projects with IAM and GuardDuty
+- Building a cost optimization dashboard
+- Studying for AWS Solutions Architect Associate
+
+---
+
+LinkedIn: https://linkedin.com/in/steve-lewis-640141345
