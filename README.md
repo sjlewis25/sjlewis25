@@ -1,4 +1,4 @@
-# Steve Lewis  
+# Steven Lewis  
 Cloud Engineer | AWS | Terraform | Real-World Projects
 
 I build hands-on AWS infrastructure that solves actual business problems.
@@ -35,4 +35,4 @@ Repo: https://github.com/sjlewis25/aws-docker-cicd
 
 ---
 
-LinkedIn: https://linkedin.com/in/steve-lewis-640141345
+LinkedIn: https://www.linkedin.com/in/steven-lewis-fl
