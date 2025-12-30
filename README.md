@@ -3,7 +3,7 @@
 
 Building production-grade AWS infrastructure with Terraform, Python, and automation.
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### [S3 + CloudFront CDN](https://github.com/sjlewis25/s3-cloudfront)
 Production static website with Lambda validation, CloudWatch monitoring, and cost optimization
@@ -22,13 +22,13 @@ Enterprise-grade multi-tier infrastructure with HA and auto-scaling
 Production REST API with full CRUD operations
 - **Tech**: API Gateway, Lambda, DynamoDB, Python, Terraform
 
-## 💻 Tech Stack
+##  Tech Stack
 **Cloud**: AWS (EC2, S3, CloudFront, Lambda, RDS, VPC, CloudWatch, IAM)  
 **IaC**: Terraform  
 **Languages**: Python, Bash  
 **CI/CD**: GitHub Actions, Docker
 
-## 📫 Connect
+##  Connect
 - LinkedIn: [linkedin.com/in/steven-lewis-fl](https://linkedin.com/in/steven-lewis-fl)
 - Email: steven.j.lewis.2024@gmail.com
 
