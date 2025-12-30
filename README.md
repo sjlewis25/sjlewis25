@@ -1,38 +1,35 @@
-# Steven Lewis  
-Cloud Engineer | AWS | Terraform | Real-World Projects
+# Steven Lewis
+**Cloud Engineer | AWS Certified Solutions Architect | Marine Corps Veteran**
 
-I build hands-on AWS infrastructure that solves actual business problems.
+Building production-grade AWS infrastructure with Terraform, Python, and automation.
 
-## Core Tools & Skills
-- AWS (S3, Lambda, DynamoDB, Glue, Athena, etc.)
-- Terraform (Infrastructure as Code)
-- CI/CD with GitHub Actions
-- PowerShell & Bash scripting
-- SQL & Data pipelines
+## 🚀 Featured Projects
 
----
+### [S3 + CloudFront CDN](https://github.com/sjlewis25/s3-cloudfront)
+Production static website with Lambda validation, CloudWatch monitoring, and cost optimization
+- **Live Demo**: [d3n9dtkdnzyu4j.cloudfront.net](https://d3n9dtkdnzyu4j.cloudfront.net)
+- **Tech**: Terraform, S3, CloudFront, Lambda, Python, CloudWatch, SNS
 
-## Highlight Projects
+### [EC2 Auto-Remediation](https://github.com/sjlewis25/ec2-auto-remediation)
+Event-driven system reducing incident response time from hours to seconds
+- **Tech**: EventBridge, Lambda, GuardDuty, CloudWatch, Python
 
-Pizza Delivery Data Pipeline  
-Uses S3, Glue, and Athena to analyze real-world delivery data. Built with Terraform. Cost-optimized. Fully automated.  
-Repo: https://github.com/sjlewis25/pizza-delivery-pipeline
+### [AWS 3-Tier Architecture](https://github.com/sjlewis25/AWS-Three-Tier-Architecture)
+Enterprise-grade multi-tier infrastructure with HA and auto-scaling
+- **Tech**: Terraform, EC2, VPC, RDS, ALB, CloudWatch
 
-Three-Tier AWS Architecture  
-Classic VPC + EC2 + ALB setup using Terraform. Includes diagram, deployment guide, and cleanup script.  
-Repo: https://github.com/sjlewis25/three-tier-aws-architecture
+### [Serverless Task API](https://github.com/sjlewis25/serverless-task-api)
+Production REST API with full CRUD operations
+- **Tech**: API Gateway, Lambda, DynamoDB, Python, Terraform
 
-Docker CI/CD Pipeline  
-CI/CD with GitHub Actions and ECS. Auto-builds and deploys containerized apps.  
-Repo: https://github.com/sjlewis25/aws-docker-cicd
+## 💻 Tech Stack
+**Cloud**: AWS (EC2, S3, CloudFront, Lambda, RDS, VPC, CloudWatch, IAM)  
+**IaC**: Terraform  
+**Languages**: Python, Bash  
+**CI/CD**: GitHub Actions, Docker
 
----
+## 📫 Connect
+- LinkedIn: [linkedin.com/in/steven-lewis-fl](https://linkedin.com/in/steven-lewis-fl)
+- Email: steven.j.lewis.2024@gmail.com
 
-## Currently Working On
-- Security projects with IAM and GuardDuty
-- Building a cost optimization dashboard
-- Studying for AWS Solutions Architect Associate
 
----
-
-LinkedIn: https://www.linkedin.com/in/steven-lewis-fl
